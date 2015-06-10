@@ -1,0 +1,27 @@
+06/09/2015 --Cindy Su
+1. Why reflection?
+By comparing the two versions of the same projects, it is easier
+to detect typos.
+
+2. How entire history make you more efficient programmer?
+It helps you to be aware of the learning process.
+
+3. What are the pros and cons of manually chossing when to create
+a commit?
+Pros: You have the control and flexibility
+Cons: You may ignore or forget to create a commit in time occasionally.
+
+4. Why Git allows saving multiple files in one commit?
+It will be especially useful and convenient if multiple files 
+are relevant and connected in the same repository.
+
+5. How can we use git log and git diff?
+We should first find the commit ids that we are interested to 
+compare, and then copy past to the git diff command.
+
+6. How version control can make me confident to make changes?
+Pretty confident since I cannot mess things up anymore.
+
+7. What do you do when you set up your workspace?
+I want to redo the control version exercise in a more intuitive 
+way
