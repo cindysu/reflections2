@@ -1,0 +1,6 @@
+1. What happens when you initialize a repository?
+It will generate .git file to track commit history. Now it is 0.
+
+2. What is the value offered by staging area?
+It is dynamic and the intermediate step between repository and working
+directory.
